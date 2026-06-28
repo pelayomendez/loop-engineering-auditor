@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python (if any helper scripts are added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Audit scratch output
+/audits/
+*.tmp
