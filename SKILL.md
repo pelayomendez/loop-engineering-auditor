@@ -11,7 +11,7 @@ or generator/evaluator setup — against the **Loop Engineering** framework, and
 
 The framework comes from a June 2026 working note synthesizing Addy Osmani, Peter
 Steinberger, Boris Cherny (Anthropic), Prithvi Rajasekaran (Anthropic), and Steve Kaliski
-(Stripe). The full framework and citations live in `references/framework.md` and `SOURCES.md`.
+(Stripe). The full framework and citations live in `references/framework.md` and `README.md`.
 When a builder pushes back on a finding, ground it in the mechanism: `references/further-reading.md`
 maps the framework's load-bearing claims (self-preference bias, the limits of self-correction,
 independent verification, automation bias) to the peer-reviewed literature behind them.

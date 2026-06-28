@@ -1,6 +1,6 @@
 # Further reading — peer-reviewed grounding for the rubric
 
-The Loop Engineering working note (`../SOURCES.md`) is a practitioner synthesis. The claims it
+The Loop Engineering working note (`../README.md`) is a practitioner synthesis. The claims it
 makes about *why* a loop fails — especially the generator/evaluator separation, the limits of
 self-correction, and the human-oversight costs — are each backed by published research. This
 file maps the framework's load-bearing claims to that literature so an auditor can cite a

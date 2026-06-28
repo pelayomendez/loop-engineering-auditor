@@ -1,7 +1,7 @@
 # The Loop Engineering Framework (reference)
 
 Condensed from the June 2026 working note *Loop Engineering: The Anthropic Playbook for
-Designing Systems That Prompt Your Agents* (see `../SOURCES.md`). This is the rubric the
+Designing Systems That Prompt Your Agents* (see `../README.md`). This is the rubric the
 auditor scores against. Read the section you need; you don't have to load all of it.
 
 ## Table of contents
