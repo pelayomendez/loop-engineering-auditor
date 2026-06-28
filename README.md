@@ -28,7 +28,8 @@ loop-engineering-auditor/
 ├── README.md
 └── references/
     ├── framework.md                # the framework as a scoring rubric
-    └── detection-signals.md        # file patterns / grep queries per part
+    ├── detection-signals.md        # file patterns / grep queries per part
+    └── further-reading.md          # peer-reviewed papers backing each scoring rule
 ```
 
 ## Usage
@@ -42,10 +43,12 @@ self-running pipeline, coding-agent setup, scheduled workflow, or generator/eval
 
 ## Provenance
 
-The rubric is derived entirely from the publicly-described Loop Engineering framework. The
-primary source and every credited author are documented in [`SOURCES.md`](./SOURCES.md). No
-proprietary content is reproduced — the skill encodes the framework's concepts as an analytical
-tool.
+The rubric is derived from the publicly-described Loop Engineering framework, with each
+scoring rule additionally grounded in peer-reviewed research (self-preference bias, the limits
+of self-correction, independent verification, automation bias). The primary source, every
+credited author, and the supporting literature are documented in [`SOURCES.md`](./SOURCES.md)
+and [`references/further-reading.md`](./references/further-reading.md). No proprietary content
+is reproduced — the skill encodes the framework's concepts as an analytical tool.
 
 ## License
 

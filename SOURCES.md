@@ -30,6 +30,19 @@ Acknowledgment sections):
 8. **Claude Code documentation** — `/loop`, `/goal`, worktrees, skills, automations, Anthropic, 2026.
 9. **Hua Shu**, *Loop Engineering: Stop Asking Me What It Is*, Orange Books, v260615, June 2026.
 
+## Supporting literature (independent of the primary source)
+
+The primary source is a practitioner synthesis. To let the auditor cite *mechanisms* rather
+than assertions, `references/further-reading.md` maps the framework's load-bearing claims to
+peer-reviewed research (all verified June 2026):
+
+- **Self-preference / self-enhancement bias in LLM judges** — Zheng et al., *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena*, NeurIPS 2023 (arXiv:2306.05685); Wataoka et al., *Self-Preference Bias in LLM-as-a-Judge*, 2024 (arXiv:2410.21819); *Do LLM Evaluators Prefer Themselves for a Reason?*, 2025 (arXiv:2504.03846).
+- **Limits of self-correction** — Huang et al. (DeepMind), *Large Language Models Cannot Self-Correct Reasoning Yet*, ICLR 2024 (arXiv:2310.01798); Madaan et al., *Self-Refine*, NeurIPS 2023 (arXiv:2303.17651).
+- **Independent / adversarial evaluation** — Goodfellow et al., *Generative Adversarial Networks*, 2014 (arXiv:1406.2661); Du et al., *Multiagent Debate*, ICML 2024 (arXiv:2305.14325).
+- **Reason + act, episodic memory** — Yao et al., *ReAct*, ICLR 2023 (arXiv:2210.03629); Shinn et al., *Reflexion*, NeurIPS 2023 (arXiv:2303.11366).
+- **Human oversight / automation bias** — Bai et al. (Anthropic), *Constitutional AI*, 2022 (arXiv:2212.08073); Parasuraman & Manzey, *Complacency and Bias in Human Use of Automation*, Human Factors 2010; Goddard et al., *Automation bias: a systematic review*, JAMIA 2012 (PMC3240751).
+- **Agentic SWE realism** — Jimenez et al., *SWE-bench*, ICLR 2024 (arXiv:2310.06770).
+
 ## Notes on fidelity
 
 - The working note itself cautions that widely-circulated figures (e.g. "~90% of Claude Code is written by itself") are mostly secondhand and should be treated as rough reference. This skill therefore avoids asserting such numbers.
